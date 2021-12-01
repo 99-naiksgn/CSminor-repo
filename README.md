@@ -2,4 +2,5 @@
 
 Cake Shop owners can use this project
 
-Languages: Angular, Sql
+Languages- Angular, Sql
+Visual Studio Xammp
